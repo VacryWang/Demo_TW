@@ -1,15 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
-
+import "./input.css"
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Demo Tailwind for iGEM
-        </p>
-      </header>
+    <div className={"flex mt-40 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 h-40"}>
+        <p className={"text-7xl m-auto text-white font-bold"}>SGEM Demo Tailwind</p>
     </div>
   );
 }
