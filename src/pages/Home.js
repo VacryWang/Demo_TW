@@ -5,7 +5,7 @@ export default function Home() {
         <div>
             <div className={"flex mt-40 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 h-40"}>
                 <span className={"text-7xl m-auto text-white font-bold"}>
-                    SGEM Demo Tailwind
+                    Tailwind
                 </span>
             </div>
             <div className={"mt-20 text-5xl"}>
