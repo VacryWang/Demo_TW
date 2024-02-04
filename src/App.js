@@ -1,8 +1,17 @@
 import "./input.css"
+import { Routes, Route } from 'react-router-dom';
+import Home from "./pages/Home"
+import AAA from "./pages/AAA"
+import BBB from "./pages/BBB"
+
 function App() {
   return (
-    <div className={"flex mt-40 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 h-40"}>
-        <p className={"text-7xl m-auto text-white font-bold"}>SGEM Demo Tailwind</p>
+    <div>
+        <Routes>
+            <Route path="/tailwind" element={ <Home /> }/>
+            <Route path="/tailwind/aaa" element={ <AAA /> }/>
+            <Route path="/tailwind/bbb" element={ <BBB /> }/>
+        </Routes>
     </div>
   );
 }
