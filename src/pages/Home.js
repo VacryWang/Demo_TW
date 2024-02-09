@@ -14,6 +14,11 @@ export default function Home() {
                     <span><Link to={"/tailwind/bbb"}>BBB</Link></span>
                 </div>
             </div>
+            <div className={"mt-20 mb-20 bg-amber-300"}>
+                <div className={"resize w-1/4 h-40 bg-green-600 overflow-auto text-white font-bold flex justify-center items-center text-5xl m-auto"}>
+                    <div>Resize</div>
+                </div>
+            </div>
         </div>
     )
 }
