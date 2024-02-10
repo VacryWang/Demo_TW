@@ -7,12 +7,12 @@ export default function Home() {
             <Title title="Tailwind"/>
             <div className={"mt-16 text-4xl"}>
                 <div className={"text-center font-bold"}>
-                    <div className={"mb-16"}><Link to={"/tailwind/card"}>Card</Link></div>
-                    <div className={"mb-16"}><Link to={"/tailwind/header"}>Header</Link></div>
-                    <div className={"mb-16"}><Link to={"/tailwind/sidebar"}>Sidebar</Link></div>
-                    <div className={"mb-16"}><Link to={"/tailwind/footer"}>Footer</Link></div>
-                    <div className={"mb-16"}><Link to={"/tailwind/form"}>Form</Link></div>
-                    <div className={"mb-16"}><Link to={"/tailwind/table"}>Table</Link></div>
+                    <div className={"mb-16"}><Link to={"/Demo_TW/card"}>Card</Link></div>
+                    <div className={"mb-16"}><Link to={"/Demo_TW/header"}>Header</Link></div>
+                    <div className={"mb-16"}><Link to={"/Demo_TW/sidebar"}>Sidebar</Link></div>
+                    <div className={"mb-16"}><Link to={"/Demo_TW/footer"}>Footer</Link></div>
+                    <div className={"mb-16"}><Link to={"/Demo_TW/form"}>Form</Link></div>
+                    <div className={"mb-16"}><Link to={"/Demo_TW/table"}>Table</Link></div>
                 </div>
             </div>
             {/*<div className={"mt-20 mb-20 bg-amber-300"}>*/}

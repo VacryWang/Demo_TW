@@ -12,13 +12,13 @@ function App() {
   return (
     <div>
         <Routes>
-            <Route path="/tailwind" element={ <Home /> }/>
-            <Route path="/tailwind/card" element={ <Card /> }/>
-            <Route path="/tailwind/header" element={ <Header /> }/>
-            <Route path="/tailwind/sidebar" element={ <Sidebar /> }/>
-            <Route path="/tailwind/footer" element={ <Footer /> }/>
-            <Route path="/tailwind/table" element={ <Table /> }/>
-            <Route path="/tailwind/form" element={ <Form /> }/>
+            <Route path="/Demo_TW" element={ <Home /> }/>
+            <Route path="/Demo_TW/card" element={ <Card /> }/>
+            <Route path="/Demo_TW/header" element={ <Header /> }/>
+            <Route path="/Demo_TW/sidebar" element={ <Sidebar /> }/>
+            <Route path="/Demo_TW/footer" element={ <Footer /> }/>
+            <Route path="/Demo_TW/table" element={ <Table /> }/>
+            <Route path="/Demo_TW/form" element={ <Form /> }/>
         </Routes>
     </div>
   );
