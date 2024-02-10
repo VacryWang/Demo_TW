@@ -4,7 +4,7 @@ import Title from '../components/common/Title'
 export default function Home() {
     return (
         <div>
-            <Title title="Tailwind"/>
+            <Title title="Demo_TW"/>
             <div className={"mt-16 text-4xl"}>
                 <div className={"text-center font-bold"}>
                     <div className={"mb-16"}><Link to={"/Demo_TW/card"}>Card</Link></div>

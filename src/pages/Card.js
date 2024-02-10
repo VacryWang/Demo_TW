@@ -18,6 +18,29 @@ import Card15 from "../components/card/Card15";
 import Card16 from "../components/card/Card16";
 import Card17 from "../components/card/Card17";
 import Card18 from "../components/card/Card18";
+import Card19 from "../components/card/Card19";
+import Card20 from "../components/card/Card20";
+import Card21 from "../components/card/Card21";
+import Card22 from "../components/card/Card22";
+import Card23 from "../components/card/Card23";
+import Card24 from "../components/card/Card24";
+import Card25 from "../components/card/Card25";
+import Card26 from "../components/card/Card26";
+import Card27 from "../components/card/Card27";
+import Card28 from "../components/card/Card28";
+import Card29 from "../components/card/Card29";
+import Card30 from "../components/card/Card30";
+import Card31 from "../components/card/Card31";
+import Card32 from "../components/card/Card32";
+import Card33 from "../components/card/Card33";
+import Card34 from "../components/card/Card34";
+import Card35 from "../components/card/Card35";
+import Card36 from "../components/card/Card36";
+import Card37 from "../components/card/Card37";
+import Card38 from "../components/card/Card38";
+import Card39 from "../components/card/Card39";
+import Card40 from "../components/card/Card40";
+import Card41 from "../components/card/Card41";
 
 export default function Card() {
     return (
@@ -42,6 +65,29 @@ export default function Card() {
             <Card16/>
             <Card17/>
             <Card18/>
+            <Card19/>
+            <Card20/>
+            <Card21/>
+            <Card22/>
+            <Card23/>
+            <Card24/>
+            <Card25/>
+            <Card26/>
+            <Card27/>
+            <Card28/>
+            <Card29/>
+            <Card30/>
+            <Card31/>
+            <Card32/>
+            <Card33/>
+            <Card34/>
+            <Card35/>
+            <Card36/>
+            <Card37/>
+            <Card38/>
+            <Card39/>
+            <Card40/>
+            <Card41/>
 
         </div>
     )

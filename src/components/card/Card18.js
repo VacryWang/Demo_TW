@@ -38,7 +38,7 @@ export default function Card18() {
                                 </button>
                             </div>
                         </div>
-                        <img alt="ecommerce" class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded" src="https://dummyimage.com/400x400"/>
+                        <img alt="ecommerce" class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded opacity-50" src="https://dummyimage.com/400x400"/>
                     </div>
                 </div>
             </section>

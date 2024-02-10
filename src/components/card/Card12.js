@@ -9,7 +9,7 @@ export default function Card12() {
                     <div className="flex flex-wrap -mx-4 -mb-10 text-center">
                         <div className="sm:w-1/2 mb-10 px-4">
                             <div className="rounded-lg h-64 overflow-hidden">
-                                <img alt="content" className="object-cover object-center h-full w-full" src="https://dummyimage.com/1201x501"/>
+                                <img alt="content" className="object-cover object-center h-full w-full opacity-50" src="https://dummyimage.com/1201x501"/>
                             </div>
                             <h2 className="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">Buy YouTube Videos</h2>
                             <p className="leading-relaxed text-base">Williamsburg occupy sustainable snackwave gochujang. Pinterest cornhole brunch, slow-carb neutra irony.</p>
@@ -17,7 +17,7 @@ export default function Card12() {
                         </div>
                         <div className="sm:w-1/2 mb-10 px-4">
                             <div className="rounded-lg h-64 overflow-hidden">
-                                <img alt="content" className="object-cover object-center h-full w-full" src="https://dummyimage.com/1202x502"/>
+                                <img alt="content" className="object-cover object-center h-full w-full opacity-50" src="https://dummyimage.com/1202x502"/>
                             </div>
                             <h2 className="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">The Catalyzer</h2>
                             <p className="leading-relaxed text-base">Williamsburg occupy sustainable snackwave gochujang. Pinterest cornhole brunch, slow-carb neutra irony.</p>

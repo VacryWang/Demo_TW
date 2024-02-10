@@ -9,7 +9,7 @@ export default function Card16() {
                     <div className="flex flex-wrap -m-4">
                         <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
                             <div className="block relative h-48 rounded overflow-hidden">
-                                <img alt="ecommerce" className="object-cover object-center w-full h-full block"
+                                <img alt="ecommerce" className="object-cover object-center w-full h-full block opacity-50"
                                      src="https://dummyimage.com/420x260"/>
                             </div>
                             <div className="mt-4">
@@ -20,7 +20,7 @@ export default function Card16() {
                         </div>
                         <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
                             <div className="block relative h-48 rounded overflow-hidden">
-                                <img alt="ecommerce" className="object-cover object-center w-full h-full block"
+                                <img alt="ecommerce" className="object-cover object-center w-full h-full block opacity-50"
                                      src="https://dummyimage.com/421x261"/>
                             </div>
                             <div className="mt-4">
@@ -31,7 +31,7 @@ export default function Card16() {
                         </div>
                         <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
                             <div className="block relative h-48 rounded overflow-hidden">
-                                <img alt="ecommerce" className="object-cover object-center w-full h-full block"
+                                <img alt="ecommerce" className="object-cover object-center w-full h-full block opacity-50"
                                      src="https://dummyimage.com/422x262"/>
                             </div>
                             <div className="mt-4">
@@ -42,7 +42,7 @@ export default function Card16() {
                         </div>
                         <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
                             <div className="block relative h-48 rounded overflow-hidden">
-                                <img alt="ecommerce" className="object-cover object-center w-full h-full block"
+                                <img alt="ecommerce" className="object-cover object-center w-full h-full block opacity-50"
                                      src="https://dummyimage.com/423x263"/>
                             </div>
                             <div className="mt-4">
@@ -53,7 +53,7 @@ export default function Card16() {
                         </div>
                         <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
                             <div className="block relative h-48 rounded overflow-hidden">
-                                <img alt="ecommerce" className="object-cover object-center w-full h-full block"
+                                <img alt="ecommerce" className="object-cover object-center w-full h-full block opacity-50"
                                      src="https://dummyimage.com/424x264"/>
                             </div>
                             <div className="mt-4">
@@ -64,7 +64,7 @@ export default function Card16() {
                         </div>
                         <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
                             <div className="block relative h-48 rounded overflow-hidden">
-                                <img alt="ecommerce" className="object-cover object-center w-full h-full block"
+                                <img alt="ecommerce" className="object-cover object-center w-full h-full block opacity-50"
                                      src="https://dummyimage.com/425x265"/>
                             </div>
                             <div className="mt-4">
@@ -75,7 +75,7 @@ export default function Card16() {
                         </div>
                         <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
                             <div class="block relative h-48 rounded overflow-hidden">
-                                <img alt="ecommerce" class="object-cover object-center w-full h-full block"
+                                <img alt="ecommerce" class="object-cover object-center w-full h-full block opacity-50"
                                      src="https://dummyimage.com/427x267"/>
                             </div>
                             <div class="mt-4">
@@ -86,7 +86,7 @@ export default function Card16() {
                         </div>
                         <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
                             <div class="block relative h-48 rounded overflow-hidden">
-                                <img alt="ecommerce" class="object-cover object-center w-full h-full block"
+                                <img alt="ecommerce" class="object-cover object-center w-full h-full block opacity-50"
                                      src="https://dummyimage.com/428x268"/>
                             </div>
                             <div class="mt-4">

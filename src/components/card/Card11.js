@@ -8,7 +8,7 @@ export default function Card11() {
                 <div className="container px-5 py-24 mx-auto flex flex-col">
                     <div className="lg:w-4/6 mx-auto">
                         <div className="rounded-lg h-64 overflow-hidden">
-                            <img alt="content" className="object-cover object-center h-full w-full"
+                            <img alt="content" className="object-cover object-center h-full w-full opacity-50"
                                  src="https://dummyimage.com/1200x500"/>
                         </div>
                         <div className="flex flex-col sm:flex-row mt-10">

@@ -5,6 +5,7 @@ import Form2 from "../components/form/Form2";
 import Form3 from "../components/form/Form3";
 import Form4 from "../components/form/Form4";
 import Form5 from "../components/form/Form5";
+import Form6 from "../components/form/Form6";
 
 export default function Form() {
     return (
@@ -16,6 +17,7 @@ export default function Form() {
             <Form3 />
             <Form4 />
             <Form5 />
+            <Form6 />
 
         </div>
     )
