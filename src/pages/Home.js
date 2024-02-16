@@ -13,6 +13,7 @@ export default function Home() {
                     <div className={"mb-16"}><Link to={"/Demo_TW/footer"}>Footer</Link></div>
                     <div className={"mb-16"}><Link to={"/Demo_TW/form"}>Form</Link></div>
                     <div className={"mb-16"}><Link to={"/Demo_TW/table"}>Table</Link></div>
+                    <div className={"mb-16"}><Link to={"/Demo_TW/test_lottie"}>Test Lottie</Link></div>
                 </div>
             </div>
             {/*<div className={"mt-20 mb-20 bg-amber-300"}>*/}

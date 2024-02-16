@@ -7,6 +7,7 @@ import Sidebar from "./pages/Sidebar"
 import Footer from "./pages/Footer"
 import Table from "./pages/Table"
 import Form from "./pages/Form";
+import TestLottie from "./pages/Test Lottie";
 
 function App() {
   return (
@@ -19,6 +20,8 @@ function App() {
             <Route path="/Demo_TW/footer" element={ <Footer /> }/>
             <Route path="/Demo_TW/table" element={ <Table /> }/>
             <Route path="/Demo_TW/form" element={ <Form /> }/>
+            <Route path="/Demo_TW/test_lottie" element={ <TestLottie /> }/>
+
         </Routes>
     </div>
   );
