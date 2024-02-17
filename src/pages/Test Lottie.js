@@ -6,10 +6,10 @@ export default function TestLottie() {
             <Player
                 autoplay
                 loop
-                src="https://lottie.host/7486e790-a724-45c8-a8b6-5c97acab83e7/Jp5wBxQq82.json"
-                style={{ height: '300px', width: '300px' }}
+                src="https://lottie.host/9ada6654-80c2-43f2-9800-18caeaca1747/sTYXn5GhJH.json"
+                style={{ width: '800px' }}
             >
-                <Controls visible={true} buttons={['play', 'repeat', 'frame', 'debug']} />
+                <Controls visible={false} buttons={['play', 'repeat', 'frame', 'debug']} />
             </Player>
         </div>
     )
