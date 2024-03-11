@@ -51,6 +51,14 @@ import Card48 from "../components/card/Card48";
 import Card49 from "../components/card/Card49";
 import Card50 from "../components/card/Card50";
 import Card51 from "../components/card/Card51";
+import Card52 from "../components/card/Card52";
+import Card53 from "../components/card/Card53";
+import Card54 from "../components/card/Card54";
+import Card55 from "../components/card/Card55";
+import Card56 from "../components/card/Card56";
+import Card57 from "../components/card/Card57";
+import Card58 from "../components/card/Card58";
+import Card59 from "../components/card/Card59";
 
 export default function Card() {
     return (
@@ -108,6 +116,14 @@ export default function Card() {
             <Card49/>
             <Card50/>
                 <Card51/>
+                <Card52/>
+                <Card53/>
+                <Card54/>
+                <Card55/>
+                <Card56/>
+                <Card57/>
+                <Card58/>
+                <Card59/>
 
         </div>
     )

@@ -1,3 +1,9 @@
+import { useEffect } from 'react';
+import { useLocation } from 'react-router-dom';
+
+import "preline/preline";
+// import { IStaticMethods } from "preline/preline";
+
 import "./input.css"
 import { Routes, Route } from 'react-router-dom';
 import Home from "./pages/Home"
@@ -10,6 +16,13 @@ import Form from "./pages/Form";
 import TestLottie from "./pages/Test Lottie";
 
 function App() {
+
+    const location = useLocation();
+
+    useEffect(() => {
+        window.HSStaticMethods.autoInit();
+    }, [location.pathname]);
+
   return (
     <div>
         <Routes>
