@@ -13,7 +13,7 @@ export default function Card39() {
                     <div className="flex flex-wrap -m-4">
                         <div className="p-4 lg:w-1/4 md:w-1/2">
                             <div className="h-full flex flex-col items-center text-center">
-                                <img alt="team" className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4 opacity-50" src="https://dummyimage.com/200x200"/>
+                                <img alt="team" className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4 opacity-50" src="https://dummyimage.com/400x240"/>
                                     <div className="w-full">
                                         <h2 className="title-font font-medium text-lg text-gray-900">Alper Kamu</h2>
                                         <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -40,7 +40,7 @@ export default function Card39() {
                         </div>
                         <div className="p-4 lg:w-1/4 md:w-1/2">
                             <div className="h-full flex flex-col items-center text-center">
-                                <img alt="team" className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4 opacity-50" src="https://dummyimage.com/201x201"/>
+                                <img alt="team" className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4 opacity-50" src="https://dummyimage.com/400x240"/>
                                     <div className="w-full">
                                         <h2 className="title-font font-medium text-lg text-gray-900">Holden Caulfield</h2>
                                         <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -67,7 +67,7 @@ export default function Card39() {
                         </div>
                         <div className="p-4 lg:w-1/4 md:w-1/2">
                             <div className="h-full flex flex-col items-center text-center">
-                                <img alt="team" className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4 opacity-50" src="https://dummyimage.com/202x202"/>
+                                <img alt="team" className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4 opacity-50" src="https://dummyimage.com/400x240"/>
                                     <div className="w-full">
                                         <h2 className="title-font font-medium text-lg text-gray-900">Atticus Finch</h2>
                                         <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -94,7 +94,7 @@ export default function Card39() {
                         </div>
                         <div className="p-4 lg:w-1/4 md:w-1/2">
                             <div className="h-full flex flex-col items-center text-center">
-                                <img alt="team" className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4 opacity-50" src="https://dummyimage.com/203x203"/>
+                                <img alt="team" className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4 opacity-50" src="https://dummyimage.com/400x240"/>
                                     <div className="w-full">
                                         <h2 className="title-font font-medium text-lg text-gray-900">Henry Letham</h2>
                                         <h3 className="text-gray-500 mb-3">UI Developer</h3>

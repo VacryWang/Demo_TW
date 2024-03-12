@@ -15,7 +15,7 @@ export default function Card59() {
                     <div className="group my-auto bg-white border rounded-xl shadow-xl transition dark:bg-slate-900 dark:border-gray-800 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="#">
                         {/*<div class="aspect-w-16 aspect-h-9">*/}
                         <div className="aspect-video overflow-hidden">
-                            <img class="opacity-50 size-full object-cover rounded-t-xl" src="https://dummyimage.com/200x200" alt="Description"/>
+                            <img class="opacity-50 size-full object-cover rounded-t-xl" src="https://dummyimage.com/400x240" alt="Description"/>
                         </div>
                         <div class="p-4 md:p-5">
                             <p class="mt-2 text-xs uppercase text-gray-600 dark:text-gray-400">
@@ -32,7 +32,7 @@ export default function Card59() {
                     <div className="group my-auto bg-white border shadow-sm rounded-xl hover:shadow-md transition dark:bg-slate-900 dark:border-gray-800 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="#">
                         {/*<div class="aspect-w-16 aspect-h-9">*/}
                         <div className="aspect-video overflow-hidden">
-                            <img class="opacity-50 size-full object-cover rounded-t-xl" src="https://dummyimage.com/200x200" alt="Description"/>
+                            <img class="opacity-50 size-full object-cover rounded-t-xl" src="https://dummyimage.com/400x240" alt="Description"/>
                         </div>
                         <div class="p-4 md:p-5">
                             <p class="mt-2 text-xs uppercase text-gray-600 dark:text-gray-400">
@@ -48,7 +48,7 @@ export default function Card59() {
                     <div className="group my-auto bg-white border shadow-sm rounded-xl hover:shadow-md transition dark:bg-slate-900 dark:border-gray-800 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="#">
                         {/*<div class="aspect-w-16 aspect-h-9">*/}
                         <div className="aspect-video overflow-hidden">
-                            <img class="opacity-50 size-full object-cover rounded-t-xl" src="https://dummyimage.com/200x200" alt="Description"/>
+                            <img class="opacity-50 size-full object-cover rounded-t-xl" src="https://dummyimage.com/400x240" alt="Description"/>
                         </div>
                         <div class="p-4 md:p-5">
                             <p class="mt-2 text-xs uppercase text-gray-600 dark:text-gray-400">
@@ -64,7 +64,7 @@ export default function Card59() {
                     <div className="group my-auto bg-white border shadow-sm rounded-xl hover:shadow-md transition dark:bg-slate-900 dark:border-gray-800 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="#">
                         {/*<div class="aspect-w-16 aspect-h-9">*/}
                         <div className="aspect-video overflow-hidden">
-                            <img class="opacity-50 size-full object-cover rounded-t-xl" src="https://dummyimage.com/200x200" alt="Description"/>
+                            <img class="opacity-50 size-full object-cover rounded-t-xl" src="https://dummyimage.com/400x240" alt="Description"/>
                         </div>
                         <div class="p-4 md:p-5">
                             <p class="mt-2 text-xs uppercase text-gray-600 dark:text-gray-400">

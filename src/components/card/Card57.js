@@ -13,7 +13,7 @@ export default function Card57() {
                 <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
                     <div class="group dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="#">
                         <div class="relative pt-[50%] sm:pt-[70%] rounded-xl overflow-hidden">
-                            <img class="size-full absolute top-0 start-0 object-cover group-hover:scale-105 transition-transform duration-500 ease-in-out rounded-xl opacity-50" src="https://dummyimage.com/200x200" alt="Description"/>
+                            <img class="size-full absolute top-0 start-0 object-cover group-hover:scale-105 transition-transform duration-500 ease-in-out rounded-xl opacity-50" src="https://dummyimage.com/400x240" alt="Description"/>
         <span class="absolute top-0 end-0 rounded-se-xl rounded-es-xl text-xs font-medium bg-gray-800 text-white py-1.5 px-3 dark:bg-gray-900">
           Sponsored
         </span>
@@ -35,7 +35,7 @@ export default function Card57() {
 
                     <div class="group dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="#">
                         <div class="relative pt-[50%] sm:pt-[70%] rounded-xl overflow-hidden">
-                            <img class="size-full absolute top-0 start-0 object-cover group-hover:scale-105 transition-transform duration-500 ease-in-out rounded-xl opacity-50" src="https://dummyimage.com/200x200" alt="Description"/>
+                            <img class="size-full absolute top-0 start-0 object-cover group-hover:scale-105 transition-transform duration-500 ease-in-out rounded-xl opacity-50" src="https://dummyimage.com/400x240" alt="Description"/>
                         </div>
 
                         <div class="mt-7">
