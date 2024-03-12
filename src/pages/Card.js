@@ -61,6 +61,18 @@ import Card58 from "../components/card/Card58";
 import Card59 from "../components/card/Card59";
 import Card60 from "../components/card/Card60";
 import Card61 from "../components/card/Card61";
+import Card62 from "../components/card/Card62";
+import Card63 from "../components/card/Card63";
+import Card64 from "../components/card/Card64";
+import Card65 from "../components/card/Card65";
+import Card66 from "../components/card/Card66";
+import Card67 from "../components/card/Card67";
+import Card68 from "../components/card/Card68";
+import Card69 from "../components/card/Card69";
+import Card70 from "../components/card/Card70";
+import Card71 from "../components/card/Card71";
+import Card72 from "../components/card/Card72";
+import Card73 from "../components/card/Card73";
 
 export default function Card() {
     return (
@@ -128,6 +140,18 @@ export default function Card() {
             <Card59/>
             <Card60/>
                 <Card61/>
+                <Card62/>
+                <Card63/>
+                <Card64/>
+                <Card65/>
+                <Card66/>
+                <Card67/>
+                <Card68/>
+                <Card69/>
+                <Card70/>
+                <Card71/>
+                <Card72/>
+                <Card73/>
 
         </div>
     )
