@@ -73,6 +73,8 @@ import Card70 from "../components/card/Card70";
 import Card71 from "../components/card/Card71";
 import Card72 from "../components/card/Card72";
 import Card73 from "../components/card/Card73";
+import Card74 from "../components/card/Card74";
+import Card75 from "../components/card/Card75";
 
 export default function Card() {
     return (
@@ -139,19 +141,21 @@ export default function Card() {
             <Card58/>
             <Card59/>
             <Card60/>
-                <Card61/>
-                <Card62/>
-                <Card63/>
-                <Card64/>
-                <Card65/>
-                <Card66/>
-                <Card67/>
-                <Card68/>
-                <Card69/>
-                <Card70/>
-                <Card71/>
-                <Card72/>
-                <Card73/>
+            <Card61/>
+            <Card62/>
+            <Card63/>
+            <Card64/>
+            <Card65/>
+            <Card66/>
+            <Card67/>
+            <Card68/>
+            <Card69/>
+            <Card70/>
+            <Card71/>
+            <Card72/>
+            <Card73/>
+            <Card74/>
+                <Card75/>
 
         </div>
     )
