@@ -75,7 +75,7 @@ export default function Form8() {
                     </div>
                 </div>
                 <div
-                    class="hidden opacity-50 md:block md:absolute md:top-0 md:start-1/2 md:end-0 h-full bg-[url('https://dummyimage.com/460x500')] bg-no-repeat bg-center bg-cover"></div>
+                    class="hidden opacity-50 md:block md:absolute md:top-0 md:start-1/2 md:end-0 h-full bg-[url('https://dummyimage.com/600x800')] bg-no-repeat bg-center bg-cover"></div>
             </div>
         </div>
     )
