@@ -16,28 +16,30 @@ import Header13 from "../components/header/Header13";
 import Header14 from "../components/header/Header14";
 import Header15 from "../components/header/Header15";
 import Header16 from "../components/header/Header16";
+import Header17 from "../components/header/Header17";
 
 export default function Header() {
     return (
         <div>
             <Title title="Header"/>
-            <Back />
-            <Header1 />
-            <Header2 />
-            <Header3 />
-            <Header4 />
-            <Header5 />
-            <Header6 />
-            <Header7 />
-            <Header8 />
-            <Header9 />
-            <Header10 />
-            <Header11 />
-                <Header12 />
-            <Header13 />
-            <Header14 />
-            <Header15 />
-            <Header16 />
+            <Back/>
+            <Header1/>
+            <Header2/>
+            <Header3/>
+            <Header4/>
+            <Header5/>
+            <Header6/>
+            <Header7/>
+            <Header8/>
+            <Header9/>
+            <Header10/>
+            <Header11/>
+            <Header12/>
+            <Header13/>
+            <Header14/>
+            <Header15/>
+            <Header16/>
+            <Header17/>
 
         </div>
     )

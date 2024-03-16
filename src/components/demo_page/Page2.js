@@ -1,7 +1,7 @@
 export default function Page2(){
     return (
         <div>
-            <div className={"text-4xl p-8 bg-gradient-to-r from-indigo-200 via-purple-200 to-pink-200 mb-16"}>
+            <div className={"text-4xl p-8 bg-gradient-to-r from-indigo-200 via-purple-200 to-pink-200"}>
                 <div className={"text-center font-bold"}>Demo Page 2 :</div>
             </div>
             <div class="max-w-[85rem] px-4 sm:px-6 lg:px-8 mx-auto">
