@@ -28,6 +28,7 @@ export default function Home() {
                     <div className={"mb-16"}><Link to={"/Demo_TW/form"}>Form</Link></div>
                     <div className={"mb-16"}><Link to={"/Demo_TW/table"}>Table</Link></div>
                     <div className={"mb-16"}><Link to={"/Demo_TW/page"}>Demo Page</Link></div>
+                    <div className={"mb-16"}><Link to={"/Demo_TW/animation"}>Animation</Link></div>
                     <div className={"mb-16"}><Link to={"/Demo_TW/test_lottie"}>Test Lottie</Link></div>
                 </div>
             </div>
