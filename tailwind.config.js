@@ -12,5 +12,6 @@ module.exports = {
         require('@tailwindcss/forms'),
         // require('preline/accordion'),
     ],
+    darkMode: 'class',
 }
 
