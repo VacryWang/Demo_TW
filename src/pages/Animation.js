@@ -4,6 +4,9 @@ import Animation1 from "../components/animation/Animation1";
 import Animation2 from "../components/animation/Animation2";
 import Animation3 from "../components/animation/Animation3";
 import Animation4 from "../components/animation/Animation4";
+import Animation5 from "../components/animation/Animation5";
+import Animation6 from "../components/animation/Animation6";
+import Animation7 from "../components/animation/Animation7";
 
 export default function Animation(){
     return(
@@ -14,6 +17,9 @@ export default function Animation(){
             <Animation2 />
             <Animation3 />
             <Animation4 />
+            <Animation5 />
+            <Animation6 />
+            <Animation7 />
 
         </div>
     )
