@@ -23,7 +23,7 @@ function Intro() {
                 scrub: true,
                 start: "18000px",
                 end: "+=500px",
-                markers: true
+                // markers: true
             },
         })
 
