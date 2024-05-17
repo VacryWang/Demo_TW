@@ -14,6 +14,17 @@ import Animation11 from "../components/animation/Animation11";
 import Animation12 from "../components/animation/Animation12";
 import Animation13 from "../components/animation/Animation13";
 import Animation14 from "../components/animation/Animation14";
+import Animation15 from "../components/animation/Animation15";
+import Animation16 from "../components/animation/Animation16";
+import Animation17 from "../components/animation/Animation17";
+import Animation18a from "../components/animation/Animation18a";
+import Animation18b from "../components/animation/Animation18b";
+import Animation18c from "../components/animation/Animation18c";
+import Animation18d from "../components/animation/Animation18d";
+import Animation19 from "../components/animation/Animation19";
+import Animation20 from "../components/animation/Animation20";
+import Animation21 from "../components/animation/Animation21";
+import Animation22 from "../components/animation/Animation22";
 
 export default function Animation(){
     return(
@@ -34,6 +45,17 @@ export default function Animation(){
             <Animation12 />
             <Animation13 />
             <Animation14 />
+            <Animation15 />
+            <Animation16 />
+            <Animation17 />
+            <Animation18a />
+            <Animation18b />
+            <Animation18c />
+            <Animation18d />
+            <Animation19 />
+            <Animation20 />
+            <Animation21 />
+            <Animation22 />
 
         </div>
     )

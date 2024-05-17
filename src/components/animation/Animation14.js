@@ -4,7 +4,7 @@ import React, { useRef } from "react";
 const Example = () => {
     return (
         <div>
-            <div className={"text-4xl p-8 bg-gradient-to-r from-indigo-200 via-purple-200 to-pink-200 mb-16"}>
+            <div className={"text-4xl p-8 bg-gradient-to-r from-indigo-200 via-purple-200 to-pink-200"}>
                 <div className={"text-center font-bold"}>Animation 14 :</div>
             </div>
         <div className="bg-neutral-800">
