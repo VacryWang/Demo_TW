@@ -1,4 +1,5 @@
-
+// import AnimateReveal from "./AnimateReveal";
+import { motion } from "framer-motion"
 export default function Card1() {
     return (
         <div>
@@ -8,7 +9,18 @@ export default function Card1() {
             <section className="text-gray-600 body-font">
                 <div className="container px-5 py-24 mx-auto">
                     <div className="flex flex-wrap -m-4">
-                        <div className="p-4 md:w-1/3">
+
+                        <motion.div
+                            className="p-4 md:w-1/3"
+                            variants={{
+                                hidden: { opacity: 0, y: 50 },
+                                visible: { opacity: 1, y: 0 }
+                            }}
+                            initial="hidden"
+                            whileInView="visible"
+                            transition={{duration: 0.5, delay: 0.2}}
+                            viewport={{once: false}}
+                        >
                             <div
                                 className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
                                 <img className="lg:h-48 md:h-36 w-full object-cover object-center opacity-50"
@@ -46,7 +58,8 @@ export default function Card1() {
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </motion.div>
+
                         <div className="p-4 md:w-1/3">
                             <div
                                 className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">

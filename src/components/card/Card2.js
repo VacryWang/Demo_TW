@@ -1,3 +1,4 @@
+import { motion } from "framer-motion"
 export default function Card2() {
     return (
         <div>
@@ -7,7 +8,16 @@ export default function Card2() {
             <section className="text-gray-600 body-font">
                 <div className="container px-5 py-24 mx-auto">
                     <div className="flex flex-wrap -m-4">
-                        <div className="p-4 lg:w-1/3">
+                        <motion.div
+                            className="p-4 lg:w-1/3"
+                            variants={{
+                                hidden: { opacity: 0, x: 50 },
+                                visible: { opacity: 1, x: 0 }
+                            }}
+                            initial="hidden"
+                            whileInView="visible"
+                            transition={{duration: 0.5, delay: 0.2}}
+                        >
                             <div
                                 className="h-full bg-gray-100 bg-opacity-75 px-8 pt-16 pb-24 rounded-lg overflow-hidden text-center relative">
                                 <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">CATEGORY</h2>
@@ -41,7 +51,7 @@ export default function Card2() {
             </span>
                                 </div>
                             </div>
-                        </div>
+                        </motion.div>
                         <div className="p-4 lg:w-1/3">
                             <div
                                 className="h-full bg-gray-100 bg-opacity-75 px-8 pt-16 pb-24 rounded-lg overflow-hidden text-center relative">
