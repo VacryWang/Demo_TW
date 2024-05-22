@@ -1,7 +1,8 @@
 import { Link } from 'react-router-dom';
 import Title from '../components/common/Title'
+import PageTransition from "./PageTransition";
 
-export default function Home() {
+const Home = () => {
 
     // function changeMode(){
     //     if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
@@ -40,3 +41,5 @@ export default function Home() {
         </div>
     )
 }
+
+export default PageTransition(Home)

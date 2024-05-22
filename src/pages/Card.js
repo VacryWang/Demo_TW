@@ -78,8 +78,9 @@ import Card75 from "../components/card/Card75";
 import Card76 from "../components/card/Card76";
 import Card77 from "../components/card/Card77";
 import Card78 from "../components/card/Card78";
+import PageTransition from "./PageTransition";
 
-export default function Card() {
+const Card = () => {
 
     // function changeMode(){
     //         if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
@@ -179,3 +180,5 @@ export default function Card() {
         </div>
     )
 }
+
+export default PageTransition(Card)
